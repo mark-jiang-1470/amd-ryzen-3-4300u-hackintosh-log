@@ -1,0 +1,146 @@
+[
+  {
+    "path": "AppleIGC18.kext",
+    "enabled_on_reference": true,
+    "version": "1.8d1",
+    "bundle_id": "com.sxx.AppleIGC",
+    "min_kernel": "",
+    "max_kernel": "",
+    "included": true
+  },
+  {
+    "path": "AppleMCEReporterDisabler.kext",
+    "enabled_on_reference": true,
+    "version": "1.2",
+    "bundle_id": "org.xlnc.disabler.MCEReporter",
+    "min_kernel": "",
+    "max_kernel": "",
+    "included": true
+  },
+  {
+    "path": "Lilu.kext",
+    "enabled_on_reference": true,
+    "version": "1.7.3",
+    "bundle_id": "as.vit9696.Lilu",
+    "min_kernel": "",
+    "max_kernel": "",
+    "included": true
+  },
+  {
+    "path": "NootedRed.kext",
+    "enabled_on_reference": true,
+    "version": "0.9.0",
+    "bundle_id": "org.ChefKiss.NootedRed",
+    "min_kernel": "",
+    "max_kernel": "",
+    "included": true
+  },
+  {
+    "path": "BlueToolFixup.kext",
+    "enabled_on_reference": true,
+    "version": "2.7.3",
+    "bundle_id": "as.acidanthera.BlueToolFixup",
+    "min_kernel": "21.0.0",
+    "max_kernel": "",
+    "included": true
+  },
+  {
+    "path": "CtlnaAHCIPort.kext",
+    "enabled_on_reference": true,
+    "version": "341.0.2",
+    "bundle_id": "com.apple.driver.CtlnaAHCIPort",
+    "min_kernel": "20.0.0",
+    "max_kernel": "",
+    "included": false
+  },
+  {
+    "path": "IntelBTPatcher.kext",
+    "enabled_on_reference": true,
+    "version": "2.5.0",
+    "bundle_id": "com.zxystd.IntelBTPatcher",
+    "min_kernel": "",
+    "max_kernel": "",
+    "included": true
+  },
+  {
+    "path": "IntelBluetoothFirmware.kext",
+    "enabled_on_reference": true,
+    "version": "2.5.0",
+    "bundle_id": "com.zxystd.IntelBluetoothFirmware",
+    "min_kernel": "",
+    "max_kernel": "",
+    "included": true
+  },
+  {
+    "path": "NVMeFix.kext",
+    "enabled_on_reference": true,
+    "version": "1.1.4",
+    "bundle_id": "org.acidanthera.NVMeFix",
+    "min_kernel": "18.0.0",
+    "max_kernel": "",
+    "included": true
+  },
+  {
+    "path": "RestrictEvents.kext",
+    "enabled_on_reference": true,
+    "version": "1.1.7",
+    "bundle_id": "as.vit9696.RestrictEvents",
+    "min_kernel": "",
+    "max_kernel": "",
+    "included": true
+  },
+  {
+    "path": "USBToolBox.kext",
+    "enabled_on_reference": true,
+    "version": "1.2.0",
+    "bundle_id": "com.dhinakg.USBToolBox.kext",
+    "min_kernel": "",
+    "max_kernel": "",
+    "included": true
+  },
+  {
+    "path": "UTBDefault.kext",
+    "enabled_on_reference": true,
+    "version": "1.0",
+    "bundle_id": "com.dhinakg.USBToolBox.injector",
+    "min_kernel": "",
+    "max_kernel": "",
+    "included": true
+  },
+  {
+    "path": "VirtualSMC.kext",
+    "enabled_on_reference": true,
+    "version": "1.3.9",
+    "bundle_id": "as.vit9696.VirtualSMC",
+    "min_kernel": "",
+    "max_kernel": "",
+    "included": true
+  },
+  {
+    "path": "itlwm.kext",
+    "enabled_on_reference": false,
+    "version": "2.3.0",
+    "bundle_id": "com.zxystd.itlwm",
+    "min_kernel": "",
+    "max_kernel": "",
+    "included": false
+  },
+  {
+    "path": "AirportItlwm.kext",
+    "enabled_on_reference": true,
+    "version": "2.4.0",
+    "bundle_id": "com.zxystd.AirportItlwm",
+    "min_kernel": "25.0.0",
+    "max_kernel": "25.99.99",
+    "included": true
+  },
+  {
+    "path": "SMCProcessorAMD.kext",
+    "enabled_on_reference": true,
+    "version": "1.0.1",
+    "bundle_id": "as.lorys89.SMCProcessorAMD",
+    "min_kernel": "25.0.0",
+    "max_kernel": "25.99.99",
+    "included": true
+  }
+]

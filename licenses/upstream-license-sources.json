@@ -1,0 +1,77 @@
+[
+  {
+    "repository": "acidanthera/Lilu",
+    "license": "BSD-3-Clause",
+    "source_url": "https://github.com/acidanthera/Lilu/blob/master/LICENSE.txt",
+    "snapshot_sha256": "74c3ca48189b796b0d262866e67de8efba77a71516667ce68dc3a8f13c2a3c57",
+    "local_file": "acidanthera-Lilu-LICENSE.txt"
+  },
+  {
+    "repository": "acidanthera/VirtualSMC",
+    "license": "BSD-3-Clause",
+    "source_url": "https://github.com/acidanthera/VirtualSMC/blob/master/LICENSE.txt",
+    "snapshot_sha256": "5bceff635b9952d36af4e784ee02158cdddb6001584439cbd8a3520eb46a28e8",
+    "local_file": "acidanthera-VirtualSMC-LICENSE.txt"
+  },
+  {
+    "repository": "acidanthera/NVMeFix",
+    "license": "NOASSERTION",
+    "source_url": "https://github.com/acidanthera/NVMeFix/blob/master/LICENSE.txt",
+    "snapshot_sha256": "128310a94b293ed30e4f20124ac0e3e45020f00570f18272bd874a419e172d54",
+    "local_file": "acidanthera-NVMeFix-LICENSE.txt"
+  },
+  {
+    "repository": "acidanthera/RestrictEvents",
+    "license": "BSD-3-Clause",
+    "source_url": "https://github.com/acidanthera/RestrictEvents/blob/master/LICENSE.txt",
+    "snapshot_sha256": "e6a427bf43f8210c082a6527a7ca5d2b5a0d22309d9828ffcdf0614d352e758f",
+    "local_file": "acidanthera-RestrictEvents-LICENSE.txt"
+  },
+  {
+    "repository": "acidanthera/BrcmPatchRAM",
+    "license": "GPL-2.0",
+    "source_url": "https://github.com/acidanthera/BrcmPatchRAM/blob/master/LICENSE",
+    "snapshot_sha256": "a45d0bb572ed792ed34627a72621834b3ba92aab6e2cc4e04301dee7a728d753",
+    "local_file": "acidanthera-BrcmPatchRAM-LICENSE.txt"
+  },
+  {
+    "repository": "OpenIntelWireless/IntelBluetoothFirmware",
+    "license": "GPL-3.0",
+    "source_url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/blob/master/LICENSE",
+    "snapshot_sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "local_file": "OpenIntelWireless-IntelBluetoothFirmware-LICENSE.txt"
+  },
+  {
+    "repository": "laobamac/itlwm",
+    "license": "GPL-2.0",
+    "source_url": "https://github.com/laobamac/itlwm/blob/main/LICENSE",
+    "snapshot_sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+    "local_file": "laobamac-itlwm-LICENSE.txt"
+  },
+  {
+    "repository": "steve12311/NootedRed",
+    "license": "NOASSERTION",
+    "source_url": "https://github.com/steve12311/NootedRed/blob/master/LICENSE",
+    "snapshot_sha256": "f9e8dfce40d8de48e7abb6038bff64b29f058c66b355aecebbeeda8faddb33eb",
+    "local_file": "steve12311-NootedRed-LICENSE.txt"
+  },
+  {
+    "repository": "macos86/SMCProcessorAMD",
+    "license": "BSD-3-Clause",
+    "source_url": "https://github.com/macos86/SMCProcessorAMD/blob/main/LICENSE.txt",
+    "snapshot_sha256": "7b9ad3105e55b63305499e91fecb0852b08055e042e8676b940d0b692db17a14",
+    "local_file": "macos86-SMCProcessorAMD-LICENSE.txt"
+  },
+  {
+    "repository": "SongXiaoXi/AppleIGC",
+    "license_status": "No license API result; retain upstream notices and consult source repository."
+  },
+  {
+    "repository": "USBToolBox/kext",
+    "license_status": "No license API result; retain upstream notices and consult source repository."
+  },
+  {
+    "repository": "AMD-OSX/AMD_Vanilla",
+    "license_status": "No license API result; retain upstream notices and consult source repository."
+  }
+]
